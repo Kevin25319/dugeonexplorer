@@ -1,0 +1,62 @@
+﻿Key,English,Vietnamese
+Start,START,Bắt đầu
+SelectProfile,Select Profile,Chọn hồ sơ
+Options,OPTIONS,Tùy chọn
+Exit,EXIT,Thoát
+Video,VIDEO,Băng hình
+FullScreen,FULL SCREEN,Toàn màn hình
+Resolution,RESOLUTION,Nghị quyết
+VSync,VSYNC,VSync
+Sound,SOUND,Âm thanh
+MasterVolume,MASTER VOLUME,Khối lượng tổng thể
+MusicVolume,MUSIC VOLUME,Âm lượng nhạc
+EffectsVolume,EFFECTS VOLUME,Hiệu ứngKhối lượng
+Controls,CONTROLS,Điều khiển
+Actions,ACTIONS,hành động
+Keyboard,KEYBOARD,Bàn phím
+Controller,CONTROLLER,Bộ điều khiển
+Move,MOVE,Di chuyển
+MoveLeft,MOVE LEFT,Di chuyển sang trái
+MoveRight,MOVE RIGHT,Đi sang phải
+MoveUp,MOVE UP,Đi lên
+MoveDown,MOVE DOWN,Đi xuống
+Jump,JUMP,Nhảy
+Attack,ATTACK,Tấn công
+SpecialAttack,SPECIAL ATTACK,Đòn tấn công đặc biệt
+Dodge,DODGE,né tránh
+ResetToDefault,RESET TO DEFAULT,Đặt lại về mặc định
+Accessibility,ACCESSIBILITY,Khả năng tiếp cận
+ControllerVibration,CONTROLLER VIBRATION,Bộ điều khiểnRung
+ScreenShake,SCREEN SHAKE,Lắc màn hình
+ScreenFlashes,SCREEN FLASHES,Màn hình nhấp nháy
+Language,LANGUAGE,Ngôn ngữ
+ReturnToTitleScreen,RETURN TO TITLE SCREEN,Quay lại màn hình tiêu đề
+QuitToDesktop,QUIT TO DESKTOP,Thoát khỏi máy tính để bàn
+Enabled,ENABLED,Đã bật
+Disabled,DISABLED,Đã tắt
+Confirm,Confirm,Xác nhận
+Back,Back,Trở lại
+Delete,Delete,Xóa
+OpenVideoMenu,Open video options menu,Mở mục lục video
+OpenSoundMenu,Open sound options menu,Mở mục lục âm thanh
+OpenControlsMenu,Open controls options menu,Mở mục lục điều khiển
+OpenAccessibilityMenu,Open accessibility options menu,Mở mục lục khả năng truy cập
+OpenLangaugeMenu,Open language options menu,Mở mục lục ngôn ngữ
+ExitToTitleScreen,Exit to title screen,Thoát sang màn hình tiêu đề 
+ExitGame,Exit game,Thoát trò chơi
+ChangeScreenMode,Change screen mode,Thay đổi chế độ màn hình
+SelectResolution,Select resolution,Chọn độ phân giải
+ToggleVSync,Toggle VSync,Thay đổi VSYNC
+ChangeVolume,Change volume,Thay đổi độ lớn âm lượng
+RebindKey,Rebind key,Khóa Rebind
+ChangeControllerVibration,Change controller vibration,Thay đổi độ rung của bộ điều khiển
+ToggleScreenShake,Toggle screen shaking effects,Chuyển đổi lắc màn hình
+ToggleScreenFlashes,Toggle screen flashing effects,Chuyển đổi đèn flash màn hình
+ChangeLanguage,Change language,Thay đổi ngôn ngữ
+Map,MAP,Bản đồ
+Center,Center,Trung tâm
+Zoom,Zoom,Phóng
+Rest,Rest,Nghỉ
+Climb,Wall Jump,Nhảy tường
+DoubleJump,Double Jump,Nhảy đúp
+Empty,,
